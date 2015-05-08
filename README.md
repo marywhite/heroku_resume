@@ -3,7 +3,7 @@
 
 __Project Overview:__ Mary White's resume project will display information about her academic and professional 
 experience in addition to her contact information. 
-The final project will be deployed and hosted on heroku at https://git.heroku.com/tranquil-depths-3390.git by __12:00pm
+The final project will be deployed and hosted on heroku at https://tranquil-depths-3390.herokuapp.com/ by __12:00pm
  5/8__ , a link to Mary 
 Any future updates or maintenance to this project will be subject to Mary's discretion alone.
 
